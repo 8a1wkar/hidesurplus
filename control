@@ -1,0 +1,9 @@
+Package: gq.8a1wkar.hidesurplus
+Name: HideSurplus
+Depends: mobilesubstrate
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Hide some thing in home screen. 
+Maintainer: 8a1wkar
+Author: 8a1wkar
+Section: Tweaks
