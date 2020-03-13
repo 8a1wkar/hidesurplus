@@ -1,9 +1,0 @@
-Package: gq.8a1wkar.hidelabels
-Name: HideSurplus
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: 8a1wkar
-Author: 8a1wkar
-Section: Tweaks
